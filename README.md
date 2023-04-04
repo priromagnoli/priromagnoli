@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 Backend Software Engineer at [OLX Brasil][olx-url]
+- 👩🏻‍💻 Software Engineer at [OLX Brasil][olx-url]
 - 🛠️ Works with Java and Kotlin
 - 🌱 Currently learning front end
 - 🙋🏻‍♀️ Pronouns: She/Her
