@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 Software Engineer
-- 🛠️ Works with Java and Kotlin
+- 🛠️ Works with backend development
 - 🌱 Currently learning devOps
 - 🙋🏻‍♀️ Pronouns: She/Her
